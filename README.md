@@ -1,2 +1,3 @@
-# QT_Text_Editor
-A simple text editor made using the Qt framework for C++
+# Qt Text Editor
+
+This is a simple text editor made using the Qt framework for C++
